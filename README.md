@@ -36,11 +36,15 @@
 
 * Lección 1
   * > Laboratorio (https://github.com/Nayelipadron24/Videojuegos/blob/main/Prototipo1_NayeliJaquelinePadronVelazquez.unitypackage)
+  * > Desafio (https://github.com/Nayelipadron24/Videojuegos/blob/main/NJPV_Desafio1.unitypackage)
 
 * Lección 2
   * > Laboratorio (https://github.com/Nayelipadron24/Videojuegos/blob/main/Prototipo2_NayeliJaquelinePadronVelazquez.unitypackage)
   * > Prueba (https://github.com/Nayelipadron24/Videojuegos/blob/main/CapturasPrototipo2.docx)
-
+    
+* Lección 3
+  * > Laboratorio (https://github.com/Nayelipadron24/Videojuegos/blob/main/Prototipo3_NayeliJaquelinePadronVelazquez.unitypackage)
+  * > Prueba (https://github.com/Nayelipadron24/Videojuegos/blob/main/CapturasPrototipo2.docx)
 
 
 ## Planificación
