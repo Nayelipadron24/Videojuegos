@@ -35,11 +35,11 @@
 ## Código Fuente
 
 * Lección 1
-  * > Laboratorio(https://github.com/Nayelipadron24/Videojuegos/blob/main/Prototipo2_NayeliJaquelinePadronVelazquez.unitypackage)
+  * > Laboratorio
 
 * Lección 2
-  * > Laboratorio
-  * > Prueba
+  * > Laboratorio (https://github.com/Nayelipadron24/Videojuegos/blob/main/Prototipo2_NayeliJaquelinePadronVelazquez.unitypackage)
+  * > Prueba (https://github.com/Nayelipadron24/Videojuegos/blob/main/CapturasPrototipo2.docx)
 
 
 
