@@ -1,6 +1,6 @@
 # Creación de Video Juego
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/8560750/195950148-0c0df38e-5f96-45ae-87c3-6922738c612d.jpg" alt="Logo" width=1200 height=300>
+    <img src="https://www.bing.com/images/search?view=detailV2&ccid=dpkXFJ1c&id=F4260BB3332915958F6FA67623DC10137F138F6F&thid=OIP.dpkXFJ1clwzB8F4tN6JW5AHaHa&mediaurl=https%3A%2F%2Fimage.freepik.com%2Fvector-gratis%2Fconcepto-dibujos-animados-videojuegos_24640-17640.jpg&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.769917149d5c970cc1f05e2d37a256e4%3Frik%3Db48TfxMQ3CN2pg%26pid%3DImgRaw%26r%3D0&exph=626&expw=626&q=videojuegos+imagenes+animadas&simid=608019008969057867&FORM=IRPRST&ck=10E169439CF92A82EE21A22168BC4420&selectedIndex=0&itb=0&cw=1222&ch=554&ajaxhist=0&ajaxserp=0>
 
   <p align="center">
     Short description
