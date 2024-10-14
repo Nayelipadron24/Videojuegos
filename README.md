@@ -1,7 +1,8 @@
 # 🎮 Creación de Videojuegos 🎮
 
 <p align="center">
-  <img src="https://giphy.com/gifs/cartoon-network-emea-crisis-videojuegos-enganchado-5b0kImM7p9fZzc361N" alt="Videojuegos">
+  <img src="https://i.gifer.com/5bux.gif" alt="Videojuegos">
+  
 </p>
 
 ## Alumna: Nayeli Jaqueline Padrón Velázquez  
@@ -18,7 +19,7 @@ El propósito de esta materia es introducirse en el proceso de diseño y desarro
 
 ### 🎮 Lección 1
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6MbjJ1zRugYQ7moU/giphy.gif" alt="Lección 1">
+  <img src="https://media.tenor.com/hEQj4yw2vmkAAAAC/start-game.gif" alt="Lección 1">
 </p>
 
 - [Laboratorio](https://github.com/Nayelipadron24/Videojuegos/blob/main/Prototipo1_NayeliJaquelinePadronVelazquez.unitypackage)  
@@ -28,7 +29,7 @@ El propósito de esta materia es introducirse en el proceso de diseño y desarro
 
 ### 🌟 Lección 2
 <p align="center">
-  <img src="https://media.giphy.com/media/l3q2Yb9O8Ls0pV1o4/giphy.gif" alt="Lección 2">
+  <img src="https://www.cinepremiere.com.mx/wp-content/uploads/2020/04/videojuegos-2.gif" alt="Lección 2">
 </p>
 
 - [Laboratorio](https://github.com/Nayelipadron24/Videojuegos/blob/main/Prototipo2_NayeliJaquelinePadronVelazquez.unitypackage)  
@@ -39,7 +40,7 @@ El propósito de esta materia es introducirse en el proceso de diseño y desarro
 
 ### 🤖 Lección 3
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0xeE5W8F9QYkW9H6/giphy.gif" alt="Lección 3">
+  <img src="https://pa1.narvii.com/6383/7199b02cf88e01e699517d49f223faae8661107b_hq.gif" alt="Lección 3">
 </p>
 
 - [Laboratorio](https://github.com/Nayelipadron24/Videojuegos/blob/main/Prototipo3_NayeliJaquelinePadronVelazquez.unitypackage)  
@@ -50,7 +51,7 @@ El propósito de esta materia es introducirse en el proceso de diseño y desarro
 
 ### 🎨 Lección 4
 <p align="center">
-  <img src="https://media.giphy.com/media/2h8Cj78KmKddg/giphy.gif" alt="Lección 4">
+  <img src="https://th.bing.com/th/id/OIP.8VEthqeSedWesicGWnl7ygAAAA?rs=1&pid=ImgDetMain" alt="Lección 4">
 </p>
 
 - [Laboratorio]  
@@ -61,7 +62,7 @@ El propósito de esta materia es introducirse en el proceso de diseño y desarro
 
 ### 🚀 Lección 5
 <p align="center">
-  <img src="https://media.giphy.com/media/jWlL2e0p74RXm/giphy.gif" alt="Lección 5">
+  <img src="https://th.bing.com/th/id/OIP.8VEthqeSedWesicGWnl7ygAAAA?rs=1&pid=ImgDetMain" alt="Lección 5">
 </p>
 
 - [Laboratorio]  
