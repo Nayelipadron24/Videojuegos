@@ -20,6 +20,7 @@ El propósito de esta materia es introducirse  en el proceso de diseño y desarr
 <p align="center">
   <img src="https://media.giphy.com/media/l3q2YjbTHptt17P0c/giphy.gif" alt="Lección 1">
 </p>
+
 - [Laboratorio](https://github.com/Nayelipadron24/Videojuegos/blob/main/Prototipo1_NayeliJaquelinePadronVelazquez.unitypackage)  
 
 - [Desafío](https://github.com/Nayelipadron24/Videojuegos/blob/main/NJPV_Desafio1.unitypackage)
@@ -30,6 +31,7 @@ El propósito de esta materia es introducirse  en el proceso de diseño y desarr
 <p align="center">
   <img src="https://media.giphy.com/media/3ov9kbuQg8ay8hXHEI/giphy.gif" alt="Lección 2">
 </p>
+
 - [Laboratorio](https://github.com/Nayelipadron24/Videojuegos/blob/main/Prototipo2_NayeliJaquelinePadronVelazquez.unitypackage)  
 
 - [Prueba](https://github.com/Nayelipadron24/Videojuegos/blob/main/CapturasPrototipo2.docx)
@@ -41,6 +43,7 @@ El propósito de esta materia es introducirse  en el proceso de diseño y desarr
 <p align="center">
   <img src="https://media.giphy.com/media/3o7TKtdBhqaZ3nNgcg/giphy.gif" alt="Lección 3">
 </p>
+
 - [Laboratorio](https://github.com/Nayelipadron24/Videojuegos/blob/main/Prototipo3_NayeliJaquelinePadronVelazquez.unitypackage) 
 
 - [Prueba](https://github.com/Nayelipadron24/Videojuegos/blob/main/CapturasPrototipo2.docx)
