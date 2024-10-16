@@ -38,13 +38,15 @@ El propósito de esta materia es introducirse en el proceso de diseño y desarro
 
 ---
 
-### 🤖 Lección 3
+### 🤖 Lección 3 2D
 <p align="center">
   <img src="https://pa1.narvii.com/6383/7199b02cf88e01e699517d49f223faae8661107b_hq.gif" alt="Lección 3">
 </p>
 
-- [Laboratorio](https://github.com/Nayelipadron24/Videojuegos/blob/main/Prototipo3_NayeliJaquelinePadronVelazquez.unitypackage)  
-- [Prueba](https://github.com/Nayelipadron24/Videojuegos/blob/main/CapturasPrototipo2.docx)  
+- [Laboratorio Juego 2D Parte 1](https://github.com/Nayelipadron24/Videojuegos/blob/main/Prototipo3_NayeliJaquelinePadronVelazquez.unitypackage)  
+- [Prueba Juego 2D Parte 1](https://github.com/Nayelipadron24/Videojuegos/blob/main/CapturasPrototipo2.docx)
+- [Laboratorio Juego 2D Parte 2](https://github.com/Nayelipadron24/Videojuegos/blob/main/Prototipo3Parte2_NayeliJaquelinePadronVelazquez.unitypackage)  
+- [Prueba Juego 2D Parte 2](https://github.com/Nayelipadron24/Videojuegos/blob/main/CapturasPrototipo3_parte2.pdf)  
 - [Desafío]
 
 ---
