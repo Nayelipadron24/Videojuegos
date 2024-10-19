@@ -34,7 +34,8 @@ El propósito de esta materia es introducirse en el proceso de diseño y desarro
 
 - [Laboratorio](https://github.com/Nayelipadron24/Videojuegos/blob/main/Prototipo2_NayeliJaquelinePadronVelazquez.unitypackage)  
 - [Prueba](https://github.com/Nayelipadron24/Videojuegos/blob/main/CapturasPrototipo2.docx)  
-- [Desafío]
+- [Desafío](https://github.com/Nayelipadron24/Videojuegos/blob/main/NJPV_Desafio2.unitypackage)
+- [Capturas Desafio](https://github.com/Nayelipadron24/Videojuegos/blob/main/Desafio2.pdf)
 
 ---
 
