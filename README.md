@@ -70,8 +70,8 @@ El propósito de esta materia es introducirse en el proceso de diseño y desarro
   <img src="https://th.bing.com/th/id/OIP.8VEthqeSedWesicGWnl7ygAAAA?rs=1&pid=ImgDetMain" alt="Lección 5">
 </p>
 
-- [Laboratorio]  
-- [Prueba]  
+- [Laboratorio Juego 2D Parte 5](https://github.com/Nayelipadron24/Videojuegos/blob/main/Prototipo5Parte1_NayeliJaquelinePadronVelazquez.unitypackage)  
+- [Prueba Juego 2D Parte 5](https://github.com/Nayelipadron24/Videojuegos/blob/main/Manual5.pdf)  
 - [Desafío]
 
 ---
