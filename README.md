@@ -71,7 +71,9 @@ El propósito de esta materia es introducirse en el proceso de diseño y desarro
 </p>
 
 - [Laboratorio Juego 2D Parte 5](https://github.com/Nayelipadron24/Videojuegos/blob/main/Prototipo5Parte1_NayeliJaquelinePadronVelazquez.unitypackage)  
-- [Prueba Juego 2D Parte 5](https://github.com/Nayelipadron24/Videojuegos/blob/main/Manual5.pdf)  
+- [Prueba Juego 2D Parte 5](https://github.com/Nayelipadron24/Videojuegos/blob/main/Manual5.pdf)
+- [Laboratorio Juego 2D Parte 6](https://github.com/Nayelipadron24/Videojuegos/blob/main/Prototipo5Parte2_NayeliJaquelinePadronVelazquez.unitypackage)
+- [Prueba Juego 2D Parte 6](https://github.com/Nayelipadron24/Videojuegos/blob/main/Manual6.pdf)
 - [Desafío]
 
 ---
